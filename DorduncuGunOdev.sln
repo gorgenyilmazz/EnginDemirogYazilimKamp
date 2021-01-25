@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DamaDemoRecap", "DamaDemoRe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfaceSegregation", "InterfaceSegregation\InterfaceSegregation.csproj", "{EDFF4FF6-093E-4EE3-8377-F8A2B171043D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BesinciGunOOPOdev", "BesinciGunOOPOdev\BesinciGunOOPOdev.csproj", "{F40C8286-BDD6-479D-A779-4AC4E71E2D13}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{EDFF4FF6-093E-4EE3-8377-F8A2B171043D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EDFF4FF6-093E-4EE3-8377-F8A2B171043D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EDFF4FF6-093E-4EE3-8377-F8A2B171043D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F40C8286-BDD6-479D-A779-4AC4E71E2D13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F40C8286-BDD6-479D-A779-4AC4E71E2D13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F40C8286-BDD6-479D-A779-4AC4E71E2D13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F40C8286-BDD6-479D-A779-4AC4E71E2D13}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
