@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30804.86
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DorduncuGunOdev", "DorduncuGunOdev\DorduncuGunOdev.csproj", "{5CF47598-24C8-47FB-8514-832BF175C17C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DorduncuGunOdev", "DorduncuGunOdev\DorduncuGunOdev.csproj", "{5CF47598-24C8-47FB-8514-832BF175C17C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DamaDemoRecap", "DamaDemoRecap\DamaDemoRecap.csproj", "{787C1154-1410-4279-8C74-56A9080D309E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfaceSegregation", "InterfaceSegregation\InterfaceSegregation.csproj", "{EDFF4FF6-093E-4EE3-8377-F8A2B171043D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{5CF47598-24C8-47FB-8514-832BF175C17C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5CF47598-24C8-47FB-8514-832BF175C17C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5CF47598-24C8-47FB-8514-832BF175C17C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{787C1154-1410-4279-8C74-56A9080D309E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{787C1154-1410-4279-8C74-56A9080D309E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{787C1154-1410-4279-8C74-56A9080D309E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{787C1154-1410-4279-8C74-56A9080D309E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDFF4FF6-093E-4EE3-8377-F8A2B171043D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDFF4FF6-093E-4EE3-8377-F8A2B171043D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDFF4FF6-093E-4EE3-8377-F8A2B171043D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDFF4FF6-093E-4EE3-8377-F8A2B171043D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
